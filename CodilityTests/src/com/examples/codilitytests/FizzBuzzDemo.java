@@ -1,8 +1,8 @@
 package com.examples.codilitytests;
 
-public class FizzBuzzDemo {
+public final class FizzBuzzDemo {
 
-	public String fizzBuzzMethod(int number) {
+	public final String fizzBuzzMethod(int number) {
 
 		String str = null;
 		if ((number > 0) && (number < 100)) {
