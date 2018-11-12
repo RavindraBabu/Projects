@@ -15,7 +15,6 @@ public class GsonDemo {
 
 	public static void main(String[] args) {
 		String url = "http://services.groupkt.com/state/get/IND/UP";
-
 		GsonUserDemo user = GsonDemo.gsonDemoImpl(url);
 
 		if (user != null) {
