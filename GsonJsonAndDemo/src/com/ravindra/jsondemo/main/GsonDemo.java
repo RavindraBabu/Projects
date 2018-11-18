@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
-import javax.jws.soap.SOAPBinding.Use;
-
 import com.google.gson.Gson;
 import com.ravindra.jsondemo.users.GsonUserDemo;
 
